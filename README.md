@@ -1,9 +1,4 @@
-<!-- GIF Banner -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
-</p>
-
-<!-- Animated Typing Header -->
+<!-- Banner / Header -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&width=550&lines=Hi+I'm+Muhammad+Osama+Abbasi!;Full+Stack+Developer;MERN+%7C+Nextjs+%7C+APIs+%7C+Cloud;Clean+Code+%26+Modern+Web+Apps" />
 </p>
@@ -63,34 +58,21 @@ I’m a passionate **Full Stack Developer** with **3+ years of experience** in b
 
 ---
 
-# 🐍 Snake Animation (Auto-Generated Contribution Snake)
+# 🌎 Connect with Me  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Osama-08/Osama-08/output/snake.svg" alt="snake animation" />
+  <a href="mailto:abbasiusama583@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/muhammad-osama-abbasi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin"></a>
+  <a href="https://github.com/Osama-08"><img src="https://img.shields.io/badge/GitHub-181717?logo=github"></a>
 </p>
 
-**Setup Required:**  
-Create a repo named **Osama-08** (your username) → enable GitHub Actions → add this workflow:
+---
 
-```yml
-name: Generate Snake
+# ⚡ Fun Fact  
+I love merging **AI + Full Stack Development** to build products that solve real-world problems.
 
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
+---
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: Osama-08
-          outputs: dist/snake.svg
-
-      - name: Push snake to output branch
-        uses: actions/upload-artifact@v3
-        with:
-          name: snake
-          path: dist/snake.svg
+<p align="center">
+  ⭐ If you like my work, consider giving a ⭐ to my repositories!
+</p>
